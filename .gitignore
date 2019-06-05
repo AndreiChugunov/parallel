@@ -1,0 +1,5 @@
+.vscode/
+*.o
+*.sh
+*.py
+*.txt
